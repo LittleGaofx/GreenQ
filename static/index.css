@@ -143,7 +143,11 @@ body {
 .t1,
 .t2,
 .t3,
-.t4,
+.t4 {
+    background-size: auto 100%;
+    background-image: url(./image/ClickBefore1.png);
+}
+
 .t5 {
     background-size: auto 100%;
     background-image: url(./image/ClickBefore.jpg);
@@ -152,7 +156,11 @@ body {
 .tt1,
 .tt2,
 .tt3,
-.tt4,
+.tt4 {
+    background-size: auto 100%;
+    background-image: url(./image/AfterClicking1.png);
+}
+
 .tt5 {
     background-size: auto 86%;
     background-image: url(./image/AfterClicking.jpg);
