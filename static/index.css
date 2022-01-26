@@ -142,28 +142,35 @@ body {
 
 .t1,
 .t2,
-.t3,
-.t4 {
-    background-size: auto 100%;
-    background-image: url(./image/ClickBefore1.png);
-}
-
-.t5 {
+.t3 {
     background-size: auto 100%;
     background-image: url(./image/ClickBefore.jpg);
 }
 
+.t4 {
+    background-size: auto 100%;
+    background-image: url(./image/ClickBefore1.jpg);
+}
+
+.t5 {
+    background-size: auto 100%;
+    background-image: url(./image/ClickBefore2.jpg);
+}
+
 .tt1,
 .tt2,
-.tt3,
+.tt3 {
+    background-size: auto 100%;
+    background-image: url(./image/AfterClicking.jpg);
+}
 .tt4 {
     background-size: auto 100%;
-    background-image: url(./image/AfterClicking1.png);
+    background-image: url(./image/AfterClicking1.jpg);
 }
 
 .tt5 {
     background-size: auto 86%;
-    background-image: url(./image/AfterClicking.jpg);
+    background-image: url(./image/AfterClicking2.jpg);
 }
 
 .bl {
