@@ -141,15 +141,18 @@ body {
 }
 
 .t1,
-.t2,
-.t3 {
+.t2 {
     background-size: auto 100%;
     background-image: url(./image/ClickBefore.jpg);
+}
+.t3 {
+    background-size: auto 100%;
+    background-image: url(./image/ClickBefore1.png);
 }
 
 .t4 {
     background-size: auto 100%;
-    background-image: url(./image/ClickBefore1.png);
+    background-image: url(./image/ClickBefore2.jpg);
 }
 
 .t5 {
@@ -158,14 +161,17 @@ body {
 }
 
 .tt1,
-.tt2,
+.tt2 {
+    background-size: auto 86%;
+    background-image: url(./image/AfterClicking.jpg);
+}
 .tt3 {
     background-size: auto 100%;
-    background-image: url(./image/AfterClicking.jpg);
+    background-image: url(./image/AfterClicking1.png);
 }
 .tt4 {
     background-size: auto 100%;
-    background-image: url(./image/AfterClicking1.png);
+    background-image: url(./image/AfterClicking2.jpg);
 }
 
 .tt5 {
