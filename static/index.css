@@ -140,19 +140,22 @@ body {
     background-position: center;
 }
 
-.t1,
+.t1 {
+    background-size: auto 100%;
+    background-image: url(./image/ClickBefore.png);
+}
 .t2 {
     background-size: auto 100%;
-    background-image: url(./image/ClickBefore.jpg);
+    background-image: url(./image/ClickBefore1.png);
 }
 .t3 {
     background-size: auto 100%;
-    background-image: url(./image/ClickBefore1.png);
+    background-image: url(./image/ClickBefore2.png);
 }
 
 .t4 {
     background-size: auto 100%;
-    background-image: url(./image/ClickBefore2.jpg);
+    background-image: url(./image/ClickBefore3.png);
 }
 
 .t5 {
@@ -160,18 +163,21 @@ body {
     background-image: url(./image/ClickBefore3.png);
 }
 
-.tt1,
+.tt1 {
+    background-size: auto 86%;
+    background-image: url(./image/AfterClicking.png);
+}
 .tt2 {
     background-size: auto 86%;
-    background-image: url(./image/AfterClicking.jpg);
+    background-image: url(./image/AfterClicking1.png);
 }
 .tt3 {
     background-size: auto 100%;
-    background-image: url(./image/AfterClicking1.png);
+    background-image: url(./image/AfterClicking2.png);
 }
 .tt4 {
     background-size: auto 100%;
-    background-image: url(./image/AfterClicking2.jpg);
+    background-image: url(./image/AfterClicking3.png);
 }
 
 .tt5 {
