@@ -23,6 +23,7 @@
             <div id="GameScoreLayer-text"></div>
             <div id="GameScoreLayer-score" style="margin:10px 0;">得分</div>
             <div id="GameScoreLayer-bast">最佳</div>
+            <div id="now"> </div>
             <button type="button" class="btn btn-secondary btn-lg" onclick="replayBtn()">重来</button></div>
             <button type="button" class="btn btn-secondary btn-lg"
                 onclick="hideGameScoreLayer();showWelcomeLayer();gameRestart()">返回主页</button>
@@ -74,10 +75,10 @@
                         <input type="text" id="timeinput" class="form-control" maxlength=4>
                     </div>
                     <h3 style="font-size:1.2em; color:#fff; line-height:1.3em;">
-                        键型设置(Beta功能暂时不可用)
+                        键型设置
                     </h3>
                     <div class="input-group mb-3">
-                        <input type="text" id="note" class="form-control" maxlength=0>
+                        <input type="text" id="note" class="form-control" maxlength=32767>
                     </div>
                     <h3 style="font-size:1.2em; color:#fff; line-height:1.3em;">
                         隐藏结算后显示的评语
